@@ -1,4 +1,4 @@
-#GIT COMMANDS
+# GIT COMMANDS
 
  > Installation Linux
 ``` bash
