@@ -1,7 +1,7 @@
 # Check List
 
-- [] Installation
-- [] Configrations
+- [x] Installation
+- [x] Configrations
 - [] git clone
 - [] git status 
 - [] git add
