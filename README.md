@@ -1,18 +1,19 @@
 # GIT 
 
-> Installation Windows
+### Installation Windows
 
-</br>
 
 	[Download GIT BASH for windows](https://gitforwindows.org)
 </br>
-> Installation Linux
+
+### Installation Linux
 
 ``` bash
 sudo apt-get install git 	#Debian/Ubuntu
 sudo yum install git 		#Fedora
 sudo pacman -S git 			#Arch
 ```
+</br>
 
 > Configrations
 ``` bash
