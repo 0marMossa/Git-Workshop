@@ -3,7 +3,7 @@
 ### Installation Windows
 
 
-	[Download GIT BASH for windows](https://gitforwindows.org)
+[Download GIT BASH for windows](https://gitforwindows.org)
 
 
 ### Installation Linux
