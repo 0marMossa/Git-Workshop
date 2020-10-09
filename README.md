@@ -2,8 +2,10 @@
 
 > Installation Windows
 
+</br>
+
 	[Download GIT BASH for windows](https://gitforwindows.org)
-	
+</br>
 > Installation Linux
 
 ``` bash
