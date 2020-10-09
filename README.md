@@ -1,8 +1,11 @@
 # GIT 
 
 > Installation Windows
+
 	[Download GIT BASH for windows](https://gitforwindows.org)
+	
 > Installation Linux
+
 ``` bash
 sudo apt-get install git 	#Debian/Ubuntu
 sudo yum install git 		#Fedora
