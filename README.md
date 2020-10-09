@@ -1,6 +1,8 @@
-# GIT COMMANDS
+# GIT 
 
- > Installation Linux
+> Installation Windows
+	[Download GIT BASH for windows](https://gitforwindows.org)
+> Installation Linux
 ``` bash
 sudo apt-get install git 	#Debian/Ubuntu
 sudo yum install git 		#Fedora
@@ -23,6 +25,6 @@ git commit -m "commit message, details about the changes you made and why you ma
 git log		#shows all the commmits made on this repo.
 git show <commit id>	#shows the changes happened in this commit.
 
-git push -u origin master	#push all the commits to the online repo on git hub.
+git push -u origin main	#push all the commits to the online repo on git hub.
 
 ```
